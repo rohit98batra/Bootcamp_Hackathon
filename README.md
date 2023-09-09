@@ -16,6 +16,7 @@ Step2:
 
 Step3:
 To dump the data first make a connection to database and create the table, so that realtime data could be pushed into the table. DO check the data types initially when creating the tables.
+In this I have used connect_database_1.py to drop or create table click_event table and used connect_database_1.pydrop or create table conversion_event table
 
 Step4:
 Start analysising the data.
